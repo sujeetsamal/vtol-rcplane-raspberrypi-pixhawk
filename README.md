@@ -1,4 +1,4 @@
-# **VTOL Quadplane — Pixhawk + Raspberry Pi**
+# **VTOL RC Plane — Pixhawk + Raspberry Pi**
 
 An autonomous **VTOL (Vertical Takeoff and Landing) fixed-wing aircraft** built using a Pixhawk flight controller and a Raspberry Pi companion computer.  
 Developed as a **4th Semester Aerospace Engineering project**, planned for completion in **10 weeks**.
@@ -39,7 +39,7 @@ A complete Bill of Materials will be available in:
 
 ## 🧠 3. Software Stack
 
-- **Flight Controller:** ArduPlane (QuadPlane mode enabled)  
+- **Flight Controller:** ArduPlane (RC Plane mode enabled)  
 - **Companion OS:** Raspberry Pi OS (64-bit)  
 - **Programming:** Python  
 - **Libraries & Tools:**
