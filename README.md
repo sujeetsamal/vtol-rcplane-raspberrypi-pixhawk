@@ -21,7 +21,7 @@ This project aims to build a small-scale intelligent VTOL aircraft capable of:
 ## 🔧 2. Main Hardware Components
 
 - **Pixhawk 2.4.8** (ArduPlane RC Plane enabled)  
-- **Raspberry Pi 4** (4GB / 8GB)  
+- **Raspberry Pi ** (4GB / 8GB)  
 - **Fixed-wing foam aircraft** (~2 m wingspan)  
 - **Motors & Servos**
   - 2× 900 KV brushless motors + 30 A ESCs  
