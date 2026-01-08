@@ -25,6 +25,7 @@ This file tracks all parts from the IndianHobbyCenter cart and their status (Ord
 | ⭕ |10 | GYUS42 Ultrasonic Long Range Distance Sensor | 1 | 1,499 | 1,499 | Long‑range ultrasonic sensor for obstacle‑distance measurement |
 | ⭕ |11 | XT60 Connector Pair (Male & Female) | 1 | 30 | 30 | Main power connectors between battery, PDB, and ESCs |
 | ⭕ |12 | YRRC 433MHz 1000mW Radio Telemetry Kit for APM Pixhawk (2–3 Mile Range) | 1 | 7,899 | 7,899 | 433 MHz telemetry radio pair for Pixhawk ↔ ground station link |
+| ⭕ |13 | GPS | 1 | 2500 | 7,899 | 433 MHz telemetry radio pair for Pixhawk ↔ ground station link |
 
 **Cart subtotal:** **₹36,523**
 
