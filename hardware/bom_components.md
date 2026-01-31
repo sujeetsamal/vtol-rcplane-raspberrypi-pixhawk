@@ -13,21 +13,23 @@ This file tracks all parts from the IndianHobbyCenter cart and their status (Ord
 
 | Status | # | Item name (as in site) | Qty | Unit price (₹) | Line total (₹) | Purpose |
 |--------|---|------------------------|-----|----------------|----------------|--------|
-| ⭕ | 1 | Raspberry Pi 4 Model‑B with 8 GB RAM | 1 | 9,499 | 9,499 | Companion computer for autopilot, video, obstacle‑avoidance logic |
-| ⭕ | 2 | HP 64GB MicroSD Memory Card SDXC Mx310 Class 10, UHS‑I, U1 | 1 | 699 | 699 | Storage for Raspberry Pi OS, code, and flight logs |
-| ⭕ | 3 | ReadytoSky 3115 900KV 3–6S Brushless Motor | 2 | 2,499 | 4,998 | Wing tilt motors providing VTOL lift and forward thrust |
-| ⭕ | 4 | ReadytoSky 30A 2–6S ESC Opto (Electronic Speed Controller) | 2 | 749 | 1,498 | ESCs to drive the two ReadytoSky 3115 motors |
-| ⭕ | 5 | Tower Pro MG995 Full Metal Gear Servo Motor (180° Rotation) | 6 | 369 | 2,214 | Servos: 2× ailerons, 1× elevator, 1× rudder, 2× tilt mechanism |
-| ⭕ | 6 | Digital Multi Servo Tester ESC CCPM Consistency Master Speed Control | 1 | 139 | 139 | Bench tool to test servos and ESCs before connecting to Pixhawk |
-| ⭕ | 7 | GeniusX (GenX) 14.8V 4S 8000mAh 40C / 80C Premium LiPo Lithium Polymer Battery | 1 | 6,299 | 6,299 | Main 4S high‑capacity LiPo flight battery |
-| ⭕ | 8 | GeniusX (GenX) 14.8V 4S 8000mAh 40C / 80C Premium LiPo Lithium Polymer Battery | 1 | 6,299 | 6,299 | Second identical 4S pack (spare / extended testing) |
-| ⭕ | 9 | Official Raspberry Pi Camera Module V2 – 8 MP | 1 | 1,749 | 1,749 | Nose‑mounted HD camera for video streaming and basic vision |
-| ⭕ |10 | GYUS42 Ultrasonic Long Range Distance Sensor | 1 | 1,499 | 1,499 | Long‑range ultrasonic sensor for obstacle‑distance measurement |
-| ⭕ |11 | XT60 Connector Pair (Male & Female) | 1 | 30 | 30 | Main power connectors between battery, PDB, and ESCs |
-| ⭕ |12 | YRRC 433MHz 1000mW Radio Telemetry Kit for APM Pixhawk (2–3 Mile Range) | 1 | 7,899 | 7,899 | 433 MHz telemetry radio pair for Pixhawk ↔ ground station link |
-| ⭕ |13 | GPS | 1 | 2500 | 7,899 | 433 MHz telemetry radio pair for Pixhawk ↔ ground station link |
+| ⭕ | 1 | •	Pixhawk 2.4.8 Flight Controller kit with GPS Module Full Combo Kit | 1 | 13,499 | 13,499 | For stabilizing the Quad Plane, coordinating sensor inputs |
+| ⭕ | 2 | Raspberry Pi 4 Model‑B with 8 GB RAM | 1 | 9,000 | 9,000 | Companion computer for autopilot, video, obstacle‑avoidance logic |
+| ⭕ | 3 | A2212 1000KV Motor (Main motor) | 2 | 399 | 798 | Brushless, outrunner motor specifically made to power quadcopters |
+| ⭕ | 4 | A2212 1400KV Motor (Tail motor) | 1 | 379 | 379 | Provides essential yaw control by driving a tail rotor to counteract main rotor torque |
+| ⭕ | 5 | ReadytoSky 30A 2–6S ESC (Electronic Speed Controller) | 3 | 749 | 2,247 | ESCs to drive the two ReadytoSky 3115 motors |
+| ⭕ | 6 | MG996R Digital High Torque Servo (Tilt servos) | 2 | 538 | 1,076 | For precise position control, speed control and torque control |
+| ⭕ | 7 | SG90 9g Micro Servo (Wing servo)  | 4 | 400 | 1,600 | For precise control of flight surfaces like ailerons, flaps, and elevons |
+| ⭕ | 8 | 1045 Propeller (CW + CCW Pair) | 2 | 150 | 300 | Feature a 15° tip angle to reduce air turbulence |
+| ⭕ | 9 | 9045 Propeller | 1 | 99 | 99 | Primarily used on quads, offering stable, efficient flight with high thrust |
+| ⭕ | 10 | GeniusX (GenX) 11.1 V 5200 mAh 3S LiPo(Battery) | 1 | 3,399 | 3,399 | Equipped with heavy-duty discharge leads to minimize resistance and sustain high current loads |
+| ⭕ | 11 | LiPo balance charger (3S) | 1 | 369 | 369 | To charge the LiPo battery |
+| ⭕ | 12 | XT60 Connector Pair (Male & Female) | 1 | 30 | 30 | Main power connectors between battery, PDB, and ESCs |
+| ⭕ | 13 | YRRC 433MHz 1000mW Radio Telemetry Kit for APM Pixhawk (2–3 Mile Range) | 1 | 7,899 | 7,899 | 433 MHz telemetry radio pair for Pixhawk ↔ ground station link |
+| ⭕ | 14 | GPS | 1 | 2500 | 2500 | 433 MHz telemetry radio pair for Pixhawk ↔ ground station link |
 
-**Cart subtotal:** **₹36,523**
+
+**Cart subtotal:** **₹43,195**
 
 ## How to update
 
