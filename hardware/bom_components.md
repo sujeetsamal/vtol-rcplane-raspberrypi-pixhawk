@@ -6,7 +6,7 @@ This file tracks all parts from the IndianHobbyCenter cart and their status (Ord
 
 - **Vendor:** IndianHobbyCenter (online)  
 - **Use:** Electronics for VTOL Quadplane (Raspberry Pi + Pixhawk)  
-- **Cart subtotal:** **₹43,195 (Estimated cost)**  
+- **Cart subtotal:** **₹36,595 (Estimated cost)**  
 - **Status legend:** ⭕ Not ordered 🟡 Ordered ✅ Received & tested  
 
 ## Order & Delivery Status
@@ -25,11 +25,11 @@ This file tracks all parts from the IndianHobbyCenter cart and their status (Ord
 | ⭕ | 10 | GeniusX (GenX) 11.1 V 5200 mAh 3S LiPo(Battery) | 1 | 3,399 | 3,399 | Equipped with heavy-duty discharge leads to minimize resistance and sustain high current loads |
 | ⭕ | 11 | LiPo balance charger (3S) | 1 | 369 | 369 | To charge the LiPo battery |
 | ⭕ | 12 | XT60 Connector Pair (Male & Female) | 1 | 30 | 30 | Main power connectors between battery, PDB, and ESCs |
-| ⭕ | 13 | YRRC 433MHz 1000mW Radio Telemetry Kit for APM Pixhawk (2–3 Mile Range) | 1 | 7,899 | 7,899 | 433 MHz telemetry radio pair for Pixhawk ↔ ground station link |
+| ⭕ | 13 | TP-Link 600 Mbps wireless high-gain antenna | 1 | 1,299 | 1,299 | A 5dBi high-gain antenna that greatly enhances the reception and transmission signal strength |
 | ⭕ | 14 | GPS | 1 | 2500 | 2500 | For real-time location tracking, navigation, speed measurement |
 
 
-**Cart subtotal:** **₹43,195**
+**Cart subtotal:** **₹36,595**
 
 ## How to update
 
