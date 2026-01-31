@@ -26,7 +26,7 @@ This file tracks all parts from the IndianHobbyCenter cart and their status (Ord
 | ⭕ | 11 | LiPo balance charger (3S) | 1 | 369 | 369 | To charge the LiPo battery |
 | ⭕ | 12 | XT60 Connector Pair (Male & Female) | 1 | 30 | 30 | Main power connectors between battery, PDB, and ESCs |
 | ⭕ | 13 | YRRC 433MHz 1000mW Radio Telemetry Kit for APM Pixhawk (2–3 Mile Range) | 1 | 7,899 | 7,899 | 433 MHz telemetry radio pair for Pixhawk ↔ ground station link |
-| ⭕ | 14 | GPS | 1 | 2500 | 2500 | 433 MHz telemetry radio pair for Pixhawk ↔ ground station link |
+| ⭕ | 14 | GPS | 1 | 2500 | 2500 | For real-time location tracking, navigation, speed measurement |
 
 
 **Cart subtotal:** **₹43,195**
