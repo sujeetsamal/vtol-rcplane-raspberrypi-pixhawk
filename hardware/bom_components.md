@@ -6,14 +6,14 @@ This file tracks all parts from the IndianHobbyCenter cart and their status (Ord
 
 - **Vendor:** IndianHobbyCenter (online)  
 - **Use:** Electronics for VTOL Quadplane (Raspberry Pi + Pixhawk)  
-- **Cart subtotal:** **₹36,523**  
+- **Cart subtotal:** **₹43,195 (Estimated cost)**  
 - **Status legend:** ⭕ Not ordered 🟡 Ordered ✅ Received & tested  
 
 ## Order & Delivery Status
 
 | Status | # | Item name (as in site) | Qty | Unit price (₹) | Line total (₹) | Purpose |
 |--------|---|------------------------|-----|----------------|----------------|--------|
-| ⭕ | 1 | Pixhawk 2.4.8 Flight Controller kit with GPS Module Full Combo Kit | 1 | 13,499 | 13,499 | For stabilizing the Quad Plane, coordinating sensor inputs |
+| ⭕ | 1 | Pixhawk 2.4.8 Flight Controller kit with GPS Module Full Combo Kit | 1 | 13,499 | 13,499 | For stabilizing the Quadplane, coordinating sensor inputs |
 | ⭕ | 2 | Raspberry Pi 4 Model‑B with 8 GB RAM | 1 | 9,000 | 9,000 | Companion computer for autopilot, video, obstacle‑avoidance logic |
 | ⭕ | 3 | A2212 1000KV Motor (Main motor) | 2 | 399 | 798 | Brushless, outrunner motor specifically made to power quadcopters |
 | ⭕ | 4 | A2212 1400KV Motor (Tail motor) | 1 | 379 | 379 | Provides essential yaw control by driving a tail rotor to counteract main rotor torque |
