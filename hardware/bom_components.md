@@ -18,7 +18,7 @@ This file tracks all parts from the IndianHobbyCenter cart and their status (Ord
 | ✅ | 3 | A2212 1000KV BLDC Brushless Motor for Drone With Soldered Bullet Connector | 2 | 399 | 798 | Brushless, outrunner motor specifically made to power quadcopters |
 | ✅ | 4 | A2212 1400KV BLDC Brushless Motor for Drone With Soldered Bullet Connector | 1 | 399 | 399 | Provides essential yaw control by driving a tail rotor to counteract main rotor torque |
 | ✅ | 5 | 30A BLDC ESC Electronic Speed Controller with Connector | 3 | 389 | 1,167 | ESCs to drive the motors |
-| ✅ | 6 | Raspberry Pi Camera Module 5MP | 1 | 309 | 309 | to enable First Person View (FPV) flight, high-definition aerial photography, or computer vision tasks like obstacle avoidance and mapping |
+| ✅ | 6 | Raspberry Pi Pi USB Camera Module 5MP | 1 | 309 | 309 | to enable First Person View (FPV) flight, high-definition aerial photography, or computer vision tasks like obstacle avoidance and mapping |
 | ✅ | 7 | SG90 Mini Servo - 180 degree Rotation | 5 | 99 | 495 | For precise position control, speed control and torque control |
 | ✅ | 8 | 2 Axis Pan Tilt Brackets For Camera / Sensors for Servo SG90 MG90  | 3 | 99 | 297 | For mounting wireless/ wired camera and sensors on robot assembly |
 | ✅ | 9 | TowerPro MG90S All Metal 9g Mini Digital Servo Motor- 180 Degree Rotation | 2 | 249 | 498 |  Calibrates servo angle limits |
