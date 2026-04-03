@@ -25,12 +25,10 @@ This file tracks all parts from the IndianHobbyCenter cart and their status (Ord
 | ✅ | 10 | 1045 Propeller (10x4.5) | 2 | 99 | 198 | Feature a 15° tip angle to reduce air turbulence |
 | ✅ | 11 | 9047 Propeller (9X4.7) | 1 | 99 | 99 | Primarily used on quads, offering stable, efficient flight with high thrust |
 | ✅ | 12 | GenX 11.1V 3S 5200mAh 40C / 80C Premium Lipo Lithium Polymer Battery | 1 | 3,399 | 3,399 | Equipped with heavy-duty discharge leads to minimize resistance and sustain high current loads |
-| ⭕ | 13 | LiPo balance charger (3S) | 1 | 369 | 369 | To charge the LiPo battery |
 | ✅ | 14 | LM2596 3A Buck Converter 4.5-40V to 3-35V Adjustable Step Down Module | 1 | 65 | 65 | Efficiently regulates voltage | 
 | ✅ | 15 | FlySky FS-IA10B Radio Receiver- 2.4GHz 10 Channel PWM AFHDS 2A Receiver 1500m PWM/PPM/i.bus/s.bus | 1 | 1,499 | 1,499 | Provides reliable signal reception with a good range |
 | ✅ | 16 | KIS3R33S DC 5V USB Output Converter 7V-24V To 5V 3A Buck DC-DC step-down power module HW273   | 1 | 299 | 299 | To convert high-voltage LiPo battery power down to stable, lower voltages |
-| ⭕ | 17 | TP-Link 600 Mbps wireless high-gain antenna | 1 | 1,299 | 1,299 | A 5dBi high-gain antenna that greatly enhances the reception and transmission signal strength |
-| ⭕ | 18 | GPS | 1 | 2500 | 2500 | For real-time location tracking, navigation, speed measurement |
+| ✅ | 18 | GPS | 1 | 2500 | 2500 | For real-time location tracking, navigation, speed measurement |
 | ✅ | 19 | 20 CM FEMALE-FEMALE JUMPER WIRE (SET OF 40) | 1 | 48 | 48 | For connections |
 | ✅ | 20 | 20 CM MALE-FEMALE JUMPER WIRE (SET OF 40) | 1 | 49 | 49 | For connections |
 | ✅ | 21 | XT60 Connector Pair (Male & Female) | 2 | 30 | 60 | Main power connectors between battery, PDB, and ESCs | Provides a secure, low-resistance link between LiPo batteries and the Electronic Speed Controller (ESC) |
